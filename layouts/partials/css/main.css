@@ -162,6 +162,7 @@ div.header .container .logo {
 }
 div.header .name {
   padding-top: 20px;
+  padding-left: 10px;
   font-size: 28px;
   font-family: 'Nexa Bold', 'Helvetica Neue', 'Arial', sans-serif;
   letter-spacing: -0.005rem;
@@ -174,6 +175,7 @@ div.header .name {
 }
 div.header nav {
   margin-bottom: 16px;
+  padding-left: 10px;
 }
 div.header nav ul {
   list-style: none;
